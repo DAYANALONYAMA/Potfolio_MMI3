@@ -167,7 +167,7 @@ const projets = [
       { label: "Voir la vidéo complète", url: "https://drive.google.com/file/d/1CkCHS0_d100vShb9NLVV0aVp-o1cU4Df/view?usp=sharing" }
     ],
 
-    contexte: "Le réseau commercial manquait de visibilité sur Sérélia partenaire externe de l'entreprise. Après un recueil de besoin avec l'équipe concernée, j'ai pris en charge l'intégralité de la production : déplacement à Caen pour la captation vidéo dans les locaux de Sérélia, puis le montage de la vidéo. ",
+    contexte: "Le réseau commercial manquait de visibilité sur Sérélia partenaire externe de l'entreprise. Après un recueil de besoin avec l'équipe concernée, j'ai pris en charge l'intégralité de la production : déplacement à Nantes pour la captation vidéo dans les locaux de Sérélia, puis le montage de la vidéo. ",
 
     objectifs: [
       "Rassurer le réseau sur la qualité du partenaire ",
