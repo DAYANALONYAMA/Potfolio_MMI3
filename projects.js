@@ -181,7 +181,7 @@ const projets = [
     "Comprendre — Identifier les cibles : recueil des besoins du réseau commercial pour adapter le contenu à leurs attentes opérationnelles",
     "Comprendre — Présenter une organisation, ses activités et son environnement : restitution du fonctionnement de Sérélia, partenaire externe, pour le rendre lisible et concret",
     "Concevoir — Mettre au point une stratégie de communication en adaptant le message : choix d'un format vidéo immersif (tournage sur site) pour répondre à un enjeu de confiance entre le réseau commercial et le partenaire",
-    "Exprimer — Tourner et monter une vidéo : captation sur site à Caen et montage complet sur Premiere Pro, en autonomie",
+    "Exprimer — Tourner et monter une vidéo : captation sur site à Nantes et montage complet sur Premiere Pro, en autonomie",
     "Entreprendre — Gérer un projet : organisation du déplacement, coordination avec les équipes Sérélia, planification du tournage et livraison finale"
   ],
 
