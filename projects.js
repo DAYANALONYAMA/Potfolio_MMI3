@@ -415,8 +415,6 @@ liens: [
     "Comprendre — Identifier les cibles : segmentation en trois niveaux (passionnés, occasionnels, bars partenaires) avec critères socio-démographiques, géographiques et besoins associés (divertissement, accessibilité, sentiment d'appartenance)",
     "Comprendre — Interpréter les éléments sémiotiques : comparaison des axes éditoriaux, de la direction artistique et du ton de voix des boutiques concurrentes",
     "Comprendre — Analyser la stratégie de communication d'un acteur (niveau 2) : analyse comparative des stratégies des concurrents pour identifier opportunités et axes de différenciation",
-    "Comprendre — Auditer une marque (niveau 2) : analyse des réseaux sociaux et sites web des concurrents, complétée par des visites terrain dans chaque boutique pour évaluer le positionnement physique",
-    "Concevoir — Proposer une recommandation marketing : définition des cibles prioritaires, des objectifs cognitifs et des points de contact à activer (site, Instagram, Facebook)",
     "Concevoir — Mettre au point une stratégie de communication adaptée aux objectifs : construction d'une stratégie différenciante en réponse à la concurrence locale et adaptée aux besoins de chaque cible",
     "Entreprendre — Gérer un projet avec une méthode classique : cadrage de la mission, structuration de la démarche d'analyse, synthèse SWOT et restitution"
   ],
